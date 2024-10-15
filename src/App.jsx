@@ -11,7 +11,7 @@ import TopUp from "./components/User/TopUp";
 import Player from "./components/User/Play/Player";
 import HomePage from "./components/Home/HomePage";
 import Home from "./components/Home/Home";
-import GamePage from "../../Game/GamePage";
+import GamePage from "./components/Game/GamePage";
 
 const App = () => {
   const NotFound = () => (
